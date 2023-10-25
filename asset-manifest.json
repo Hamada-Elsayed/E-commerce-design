@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/E-commerce-design/static/css/main.8ef7bf17.css",
-    "main.js": "/E-commerce-design/static/js/main.22b2dfc1.js",
+    "main.css": "/E-commerce-design/static/css/main.1917e5cc.css",
+    "main.js": "/E-commerce-design/static/js/main.bee13f78.js",
     "static/js/787.66c1a632.chunk.js": "/E-commerce-design/static/js/787.66c1a632.chunk.js",
     "static/media/slider4.png": "/E-commerce-design/static/media/slider4.8049dedb7c458a0534a5.png",
     "static/media/slider1.png": "/E-commerce-design/static/media/slider1.2d6dc5a9c0fd289461ee.png",
@@ -11,12 +11,12 @@
     "static/media/login.webp": "/E-commerce-design/static/media/login.096f135735c10089375b.webp",
     "static/media/brand3.png": "/E-commerce-design/static/media/brand3.1a0049b1f1a261d0e6d1.png",
     "index.html": "/E-commerce-design/index.html",
-    "main.8ef7bf17.css.map": "/E-commerce-design/static/css/main.8ef7bf17.css.map",
-    "main.22b2dfc1.js.map": "/E-commerce-design/static/js/main.22b2dfc1.js.map",
+    "main.1917e5cc.css.map": "/E-commerce-design/static/css/main.1917e5cc.css.map",
+    "main.bee13f78.js.map": "/E-commerce-design/static/js/main.bee13f78.js.map",
     "787.66c1a632.chunk.js.map": "/E-commerce-design/static/js/787.66c1a632.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.8ef7bf17.css",
-    "static/js/main.22b2dfc1.js"
+    "static/css/main.1917e5cc.css",
+    "static/js/main.bee13f78.js"
   ]
 }
